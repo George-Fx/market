@@ -1,0 +1,87 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Black Sneakers",
+            "price": 120.0,
+            "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "carrot",
+                "blue",
+                "beige",
+                "purple",
+                "black"
+            ],
+            "categories": [
+                "Men"
+            ],
+            "rating": "5",
+            "images": [
+                "https://george-fx.github.io/manero-api/resources/products/01.png",
+                "https://george-fx.github.io/manero-api/resources/products/01.png",
+                "https://george-fx.github.io/manero-api/resources/products/01.png"
+            ],
+            "is_bestseller": true,
+            "is_sale": false,
+            "is_featured": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Cameron Williamson",
+                    "image": "https://dl.dropbox.com/s/r7bjkzbi27g5sh3/01.png?dl=0",
+                    "comment": "Vel provident distinctio consequatur. Totam aut enim ea eligendi maxime. Quia perspiciatis in quia expedita beatae. Cupiditate provident tempore illum sunt sint ea. Enim quisquam in cum quibusdam.",
+                    "rating": 4,
+                    "created_at": "2022-08-20"
+                },
+                {
+                    "id": 2,
+                    "name": "Theresa Webb",
+                    "image": "https://dl.dropbox.com/s/ohmt9lw6bov5l9o/02.png?dl=0",
+                    "comment": "Aliquam laboriosam voluptates et dignissimos veritatis. Ut aut distinctio ipsam ea voluptatem. Sunt omnis id qui laudantium dolor et. Aut temporibus minus consectetur qui dolores architecto dicta.",
+                    "rating": 2,
+                    "created_at": "2022-08-20"
+                },
+                {
+                    "id": 3,
+                    "name": "Marvin McKinney",
+                    "image": "https://dl.dropbox.com/s/nxlpvlywtjrnsk0/03.png?dl=0",
+                    "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
+                    "rating": 3,
+                    "created_at": "2022-08-20"
+                },
+                {
+                    "id": 4,
+                    "name": "Jacob Jones",
+                    "image": "https://dl.dropbox.com/s/1ssp4m6b34t517c/04.png?dl=0",
+                    "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
+                    "rating": 3,
+                    "created_at": "2022-08-20"
+                },
+                {
+                    "id": 5,
+                    "name": "Annette Black",
+                    "image": "https://dl.dropbox.com/s/30s8rlhufwmwecj/05.png?dl=0",
+                    "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
+                    "rating": 3,
+                    "created_at": "2022-08-20"
+                },
+                {
+                    "id": 6,
+                    "name": "Jenny Wilson",
+                    "image": "https://dl.dropbox.com/s/956bnp6u5v35wkt/06.png?dl=0",
+                    "comment": "Et illum omnis est totam asperiores aliquid et. Ipsum unde labore quibusdam. Nesciunt facilis fugiat aut sapiente expedita perspiciatis. Corrupti ex eum id voluptatem est libero.",
+                    "rating": 5,
+                    "created_at": "2022-08-20"
+                }
+            ]
+        }
+    ]
+}

@@ -12,7 +12,9 @@
                 "Laravel Orchid Admin Panel"
             ],
             "format": [
-                "figma"
+                "figma",
+                "react",
+                "laravel"
             ],
             "colors": [
                 "carrot",

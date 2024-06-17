@@ -11,13 +11,8 @@
                 "Only Functional Components",
                 "Laravel Orchid Admin Panel"
             ],
-            "sizes": [
-                "XS",
-                "S",
-                "M",
-                "L",
-                "XL",
-                "XXL"
+            "format": [
+                "figma"
             ],
             "colors": [
                 "carrot",

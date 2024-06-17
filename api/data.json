@@ -16,26 +16,13 @@
                 "react",
                 "laravel"
             ],
-            "colors": [
-                "carrot",
-                "blue",
-                "beige",
-                "purple",
-                "black"
-            ],
-            "categories": [
-                "Men"
-            ],
             "rating": "5",
             "image": "https://george-fx.github.io/market/unimor/preview_378_255.png",
             "images": [
                 "https://george-fx.github.io/manero-api/resources/products/01.png",
                 "https://george-fx.github.io/manero-api/resources/products/01.png",
                 "https://george-fx.github.io/manero-api/resources/products/01.png"
-            ],
-            "is_bestseller": true,
-            "is_sale": false,
-            "is_featured": false
+            ]
         }
     ]
 }

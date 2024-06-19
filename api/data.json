@@ -119,6 +119,29 @@
                 "https://george-fx.github.io/manero-api/unimor/preview_652_492_02.png",
                 "https://george-fx.github.io/manero-api/unimor/preview_652_492_03.png"
             ]
+        },
+        {
+            "id": "6",
+            "name": "BeShop - Beauty Store Figma UI Template",
+            "price": 24.0,
+            "overview": "Introducing Timeless, a sleek and modern template for creative agencies. Perfect for design studios, marketing agencies, and freelancers, Timeless combines elegant design with powerful functionality.",
+            "highlights": [
+                "Easy Editable",
+                "Unique & Modern Design"
+            ],
+            "format": [
+                "figma"
+            ],
+            "category": [
+                "Figma Resources"
+            ],
+            "thumbnail": "https://george-fx.github.io/market/crope/80_80.png",
+            "preview_316_212": "https://george-fx.github.io/market/crope/preview_316_212.png",
+            "preview_652_492": [
+                "https://george-fx.github.io/manero-api/unimor/preview_652_492_01.png",
+                "https://george-fx.github.io/manero-api/unimor/preview_652_492_02.png",
+                "https://george-fx.github.io/manero-api/unimor/preview_652_492_03.png"
+            ]
         }
     ]
 }
